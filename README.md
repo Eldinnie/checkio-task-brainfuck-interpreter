@@ -1,24 +1,11 @@
-checkio-task-template
+checkio-task-brainfuck interpreter
 =====================
 
-This is the basic CheckiO template for user generated tasks.
-It has a fixed folder structure so please be careful with
-your file and naming conventions.
+Task for Checkio
 
+Write an interpreter for the Brainfuck esoteric programming language
 
-## Tasks examples
-
-[Traingle angles](https://github.com/Bryukh-Checkio-Tasks/checkio-task-triangle-angles)  
-
-[Magic square](https://github.com/Bryukh-Checkio-Tasks/checkio-task-magic-square)
-
-
-## Some examples
-
-Several users created their own missions, and you can view (and solve!) them on CheckiO.  
-Like [Amachua](http://www.checkio.org/user/Amachua/)’s [Sudoku Solver](http://www.checkio.org/mission/sudokusolver/). Or [Suwanditan](http://www.checkio.org/user/suwanditan/)’s [Periodic Table](http://www.checkio.org/mission/periodic-table/) (our CTO doesn’t even know how to solve this challenge!).
-
-
+======================
 # Files definition
 
 Below you can read an explanation for the role of each folder and file inside the project.
