@@ -1,6 +1,6 @@
 def checkio(a, b):
     """
-        sums two passed arguments
+        sums two passed arguments Yodeli
     """
     return None
 
